@@ -1,2 +1,2 @@
 # smart trade JP
-*testmember2
+*testmember３
